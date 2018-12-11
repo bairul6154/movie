@@ -1,0 +1,12 @@
+.movie-name {
+    text-align: center;
+    margin: auto;
+    background-color: lightgray;
+    width: 500px;
+    
+}
+.back {
+    background-color: gray;
+    height: 700px;
+    max-height: 700px;
+}
