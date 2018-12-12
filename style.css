@@ -3,8 +3,7 @@
     max-width: 980px;
 }
 
-.title,
-.footer {
+.title, .footer {
     text-align: center;
     margin: auto;
     background-color: lightgray;
