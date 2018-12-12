@@ -2,7 +2,9 @@
     max-height: 700px;
     max-width: 980px;
 }
-.title, .footer {
+
+.title,
+.footer {
     text-align: center;
     margin: auto;
     background-color: lightgray;
@@ -10,12 +12,24 @@
     top: 590px;
     padding: 20px 0px;
 }
+
 .title {
     position: static;
     padding: 0px;
     width: 500px;
 }
+
 .back {
     height: 700px;
+    max-height: 700px;
     background-image: url("backdrop.jpg");
+}
+
+.input {
+    margin-bottom: auto;
+    width: 200px;
+    height: 30px;
+    font-size: 13px;
+
+
 }
