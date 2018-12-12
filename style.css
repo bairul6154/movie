@@ -1,5 +1,6 @@
 * {
     max-height: 700px;
+    max-width: 980px;
 }
 .title, .footer {
     text-align: center;
