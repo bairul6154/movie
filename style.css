@@ -1,5 +1,5 @@
-
-.title, .footer {
+.title,
+.footer {
     font-family: 'Charm', cursive;
     text-align: center;
     margin: auto;
@@ -29,6 +29,7 @@ input {
     height: 30px;
     font-size: 13px;
     text-align: center;
+
 
 
 }
