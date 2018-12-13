@@ -4,7 +4,7 @@
     margin: auto;
     background-color: lightgray;
     position: relative;
-    top: 590px;
+    top: 960px;
     padding: 20px 0px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .back {
-    height: 700px;
+    height: 1000px;
     background-image: url("backdrop.jpg");
     background-position: center;
     background-repeat: no-repeat;
