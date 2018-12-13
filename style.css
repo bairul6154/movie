@@ -4,6 +4,7 @@
 }
 
 .title, .footer {
+    font-family: 'Charm', cursive;
     text-align: center;
     margin: auto;
     background-color: lightgray;
@@ -24,12 +25,12 @@
     background-image: url("backdrop.jpg");
 }
 
-.input {
-    margin: auto;
+input {
+    font-family: 'Fjalla One', sans-serif;
     width: 200px;
     height: 30px;
     font-size: 13px;
-    padding: 10px 30px;
+    text-align: center;
 
 
 }
