@@ -1,7 +1,3 @@
-* {
-    max-height: 700px;
-    max-width: 980px;
-}
 
 .title, .footer {
     text-align: center;
@@ -19,9 +15,11 @@
 }
 
 .back {
-    height: 700px;
-    max-height: 700px;
+    height: 100%;
     background-image: url("backdrop.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .input {
