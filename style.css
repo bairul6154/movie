@@ -31,4 +31,12 @@ input {
     text-align: center;
 
 
+
+}
+p {
+    display: inline;
+    background-color: lightgray;
+}
+img {
+    float: left;
 }
