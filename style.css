@@ -1,5 +1,6 @@
 
 .title, .footer {
+    font-family: 'Charm', cursive;
     text-align: center;
     margin: auto;
     background-color: lightgray;
@@ -22,11 +23,12 @@
     background-size: cover;
 }
 
-.input {
-    margin-bottom: auto;
+input {
+    font-family: 'Fjalla One', sans-serif;
     width: 200px;
     height: 30px;
     font-size: 13px;
+    text-align: center;
 
 
 }
