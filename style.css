@@ -5,7 +5,7 @@
     margin: auto;
     background-color: lightgray;
     position: relative;
-    top: 960px;
+    top: 800px;
     padding: 20px 0px;
 }
 
@@ -29,8 +29,8 @@ input {
     height: 30px;
     font-size: 13px;
     text-align: center;
-
-
+    position: relative;
+    top: 650px;
 
 }
 p {
