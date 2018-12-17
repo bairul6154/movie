@@ -36,7 +36,11 @@ input {
 p {
     display: inline;
     background-color: lightgray;
+    
 }
 img {
     float: left;
+    position: relative;
+    bottom: 40px;
 }
+
