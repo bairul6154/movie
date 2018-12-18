@@ -3,7 +3,9 @@
     font-size: 50px;
     text-align: center;
     margin: auto;
-    position: static;
+    position: relative;
+    bottom: 100px;
+    display:inline;
     padding: 20px 0px;
 }
 .back {
@@ -28,7 +30,7 @@ input {
     height: 100%;
     margin: 100px;
 }
-img {
+#deadpool {
     float: left;
 }
 p {
