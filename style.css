@@ -1,12 +1,12 @@
 .title {
     font-family: 'Charm', cursive;
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
     margin: auto;
     position: relative;
-    bottom: 100px;
+    bottom: 120px;
     display:inline;
-    padding: 20px 0px;
+    padding: 20px 50px;
 }
 .back {
     height: 1000px;
@@ -28,7 +28,8 @@ input {
 .content {
     background-color: rgba(200,200,255,0.7);
     height: 100%;
-    margin: 100px;
+    margin: auto 20em ;
+    border: solid blue 1px;
 }
 #deadpool {
     float: left;
