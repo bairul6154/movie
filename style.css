@@ -39,3 +39,7 @@ p {
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
+span {
+    font-style: oblique;
+    color: darkred;
+}
