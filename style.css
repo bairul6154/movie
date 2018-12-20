@@ -1,6 +1,6 @@
 .title {
     font-family: 'Carter One', cursive;
-    color:white;
+    color: white;
     font-size: 100px;
     text-align: center;
     position: relative;
@@ -25,9 +25,10 @@ input {
     position: relative;
 }
 .content {
+    min-width: 1100px;
     background-color: rgba(200,200,255,0.7);
     height: 100%;
-    margin: auto 20em ;
+    margin: auto 20em;
     border: solid blue 1px;
     font-size: 20px;
 }
