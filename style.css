@@ -22,7 +22,6 @@ input {
     height: 30px;
     font-size: 13px;
     text-align: center;
-
 }
 .content {
     min-width: 1100px;
@@ -48,4 +47,8 @@ span {
 video, input {
     position: relative;
     left: 100px;
+}
+#logo {
+    position: fixed;
+    opacity:0.3;
 }
